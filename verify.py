@@ -105,5 +105,4 @@ async def on_ready():
     await client.tree.sync()
     print(f"Bot ready as {client.user}")
 
-client.run("MTM3MDQ0NDg4Njc3MTM3MjExMg.GxmK0T.yoGwUUfJBvdpzepXajUn2Yjnrprg0xlVU7eWz8")
-client.run("TOKEN_HERE")
+client.run("BOT_TOKEN_HERE")
