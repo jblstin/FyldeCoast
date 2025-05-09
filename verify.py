@@ -106,3 +106,4 @@ async def on_ready():
     print(f"Bot ready as {client.user}")
 
 client.run("MTM3MDQ0NDg4Njc3MTM3MjExMg.GxmK0T.yoGwUUfJBvdpzepXajUn2Yjnrprg0xlVU7eWz8")
+client.run("TOKEN_HERE")
